@@ -14,5 +14,5 @@ version = "GR7zopVV"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more."

@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/totw-modded.pw.toml"
-hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
+hash = "d9cb22297a6a0c136d018781d9eabc772045c90e3718803cddb7922e344fd4d6"
 metafile = true
 
 [[files]]
