@@ -119,6 +119,11 @@ hash = "4b8bc0f4df623f14f6777a67f4855c2aba710312daff3466e0b9947f79d27141"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "e8aaf804f02b285e81a77413e91a56b6ae1c6d172e1ccc1b74454b3653a420a0"
+metafile = true
+
+[[files]]
 file = "mods/crossstitch.pw.toml"
 hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
 metafile = true
@@ -149,8 +154,18 @@ hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "3d312915108c9d8fdbbd8cf4b94458c8d18de40f71857af7c381b05d8fa77655"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "4cf7a453a6cc82b23809d0c581cb632fb369bff9b0f0d39416859fb246d4be8a"
 metafile = true
 
 [[files]]
@@ -329,6 +344,11 @@ hash = "cf993df07eb3dbe0957ebb38a5b4ff355383af3f652a777e6c7341f777688651"
 metafile = true
 
 [[files]]
+file = "mods/more-chests.pw.toml"
+hash = "007577ca3a87720f32eeab1d944c961f2549eef6e7b559a0a3917dcc54941f77"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
@@ -346,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "20b013f809a352f9b54f5c9e54ac39296b8f33d701120c6ea6f303f60a332785"
 metafile = true
 
 [[files]]
