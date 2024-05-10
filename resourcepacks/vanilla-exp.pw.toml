@@ -1,0 +1,18 @@
+name = "Vanilla Experience+"
+filename = "§b§lVanilla Experience+§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bf2GogI/versions/XwBWur7B/%C2%A7b%C2%A7lVanilla%20Experience%2B%C2%A70.zip"
+hash-format = "sha1"
+hash = "70de1de0fa946f0a24bf27bee2663bc962504e32"
+
+[update]
+[update.modrinth]
+mod-id = "8bf2GogI"
+version = "XwBWur7B"
+
+[option]
+optional = true
+default = true
+description = "Resource Pack - It improves, upgrade and repair a lot of things while keeping the Vanilla style"

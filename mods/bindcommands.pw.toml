@@ -1,0 +1,17 @@
+name = "BindCommands"
+filename = "fabric-bind-cmd-1.4.2-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WeytAdLH/versions/4dNhqzAZ/fabric-bind-cmd-1.4.2-1.20.4.jar"
+hash-format = "sha1"
+hash = "21409a82a09f6886589d55365797ccec9f26486a"
+
+[update]
+[update.modrinth]
+mod-id = "WeytAdLH"
+version = "4dNhqzAZ"
+
+[option]
+optional = true
+description = "Mod - Easily bind Minecraft commands to keyboard keys"
