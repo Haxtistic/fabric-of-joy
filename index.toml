@@ -24,6 +24,16 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "8abd5e7d53c2521a193d202eca447d094cf2a6b2f2238b4c01c9bd8fc981d5d0"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "82866d1391ff15d6a5f7af3645ae7e6b204d3287555516e95892428745e67629"
 metafile = true
@@ -149,6 +159,11 @@ hash = "fdb843150645d3e54d1c5c501b8975243e5ba3d886a1a7332c96f03967c6ceb6"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "2ac5b226df0c37f71e77c8b960263fea74e57732707fd439c75366ad3aa80aa3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
@@ -234,6 +249,11 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "bc39787aa4c6ce80a4503dbed358498b222a2ff40a3be12be5dc024866a18eff"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
 metafile = true
@@ -274,6 +294,11 @@ hash = "0e255fdef786cb44191db898a911dab8e7e9bff0f9a0b1ee9b453707522a058f"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "46775cb51714cb624ab336889c25c29945998c67b8f32f8fb11e9fb7ecf50c67"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
@@ -281,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "0654725d644d971636f3b08dd7456ca7e0b8f25068de69c4b5aea256ee3a0f66"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -319,13 +339,13 @@ hash = "70e16e7b8aa60161bfc42f3de9a0d9828dc3bcbf95d415842c30f19c3c18ce11"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
+file = "mods/natures-compass.pw.toml"
+hash = "00e0b1c8ea87947a02358597a358fc24e542086ad8cd03b885e51a71fe189b66"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
+file = "mods/no-chat-reports.pw.toml"
+hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
@@ -374,6 +394,11 @@ hash = "aa821fed9e37ed243f182062d8ed2715b2098b299154c9b078ea03a770cd6139"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b45be2af8beef3e632a89482ca4a11028d89bc063ca282c112ee69e886992d43"
+metafile = true
+
+[[files]]
 file = "mods/slot-cycler.pw.toml"
 hash = "d419f6bf486cf61c837fefb390573013fdd5637fd94c729be5e82e1393f99942"
 metafile = true
@@ -399,6 +424,11 @@ hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "f15cdb2408faa6158d8398ef0d97a83e048d5e07cadc305ef4f480e78e6d3c5b"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
 metafile = true
@@ -411,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "cc4d196949d893071f261e939501ca8c7a79ba8ced3d790ce98d25e4f207bca3"
 metafile = true
 
 [[files]]
@@ -441,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "1cc15f1e57544cdd59abb1d979182fab2775122a8ac1fdb1c03609e695b75733"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
 metafile = true
 
 [[files]]
