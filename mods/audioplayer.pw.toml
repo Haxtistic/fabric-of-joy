@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-fabric-1.20.4-1.8.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/stSyrtc4/audioplayer-fabric-1.20.4-1.8.9.jar"
+hash-format = "sha1"
+hash = "d7dfb99c975a1a1d5846b5dc0a13c9ac0621240c"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "stSyrtc4"
