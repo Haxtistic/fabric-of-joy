@@ -374,6 +374,11 @@ hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "20b013f809a352f9b54f5c9e54ac39296b8f33d701120c6ea6f303f60a332785"
 metafile = true
