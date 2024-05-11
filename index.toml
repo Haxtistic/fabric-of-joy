@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "f1cea27f5ae59cf1eb5616a1b80e875f6b5ec7c45da005ba7654dc8977e5eaf1"
+hash = "cccfab075bf25d20274b00de80907ed362bbb14f3552103e083b33fcfa268fcc"
 metafile = true
 
 [[files]]
