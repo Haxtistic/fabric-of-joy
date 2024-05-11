@@ -349,11 +349,6 @@ hash = "cf993df07eb3dbe0957ebb38a5b4ff355383af3f652a777e6c7341f777688651"
 metafile = true
 
 [[files]]
-file = "mods/more-chests.pw.toml"
-hash = "007577ca3a87720f32eeab1d944c961f2549eef6e7b559a0a3917dcc54941f77"
-metafile = true
-
-[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
@@ -406,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "7337239b3c24fa72eb16b46582835e189da04c7a076cef18a3ea33ee9ab7fb3a"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "13c79f2889b02b60972be6aaa81d1299c5f4c3306deb0f290f9c42d9399d096f"
 metafile = true
 
 [[files]]
