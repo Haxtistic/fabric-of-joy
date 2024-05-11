@@ -39,6 +39,11 @@ hash = "82866d1391ff15d6a5f7af3645ae7e6b204d3287555516e95892428745e67629"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "a0aa2535442482d5df626c558e73de5adb9e7e9d562ad032c5c23cc28eec0e80"
+metafile = true
+
+[[files]]
 file = "mods/better-ladders.pw.toml"
 hash = "cad4a19a4c96c0a94979187142cc57648e86e05fc3f5121cafe9963be1c66a49"
 metafile = true
@@ -494,6 +499,11 @@ hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
 metafile = true
 
 [[files]]
+file = "mods/underground-jungle.pw.toml"
+hash = "fe4f716bb51bce8bb4c7f6a27741d80ee75fb5f3944f0903cdc2345b6d62fda6"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "b33d7e2107f39202f200be55051457551aaf4b389af68aa8f417a140f3e6e260"
 metafile = true
@@ -516,6 +526,21 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "c1f303e748533026bac66512ca2986c269563c53a33a3ffeef2da2bbfb1a6347"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "3c735c76ca10dad5f1013a7e7dd499ac7f797283b81ef3f01a287a017154f214"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "152bb2393f34fbde175d0690531278804aac8974e7a438e4d83772b194f471d9"
 metafile = true
 
 [[files]]

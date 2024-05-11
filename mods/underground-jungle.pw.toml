@@ -1,0 +1,13 @@
+name = "Underground Jungle"
+filename = "underground-jungle-fabric-20.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/xzuI3f0l/underground-jungle-fabric-20.3.1.jar"
+hash-format = "sha1"
+hash = "539f8213cd3495b1f3a61ddd982c70ea44387401"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "xzuI3f0l"
