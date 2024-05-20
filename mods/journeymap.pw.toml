@@ -11,3 +11,7 @@ hash = "d8eb05c5f9e7d9f0b21053bcdfe327b8341ed127"
 [update.modrinth]
 mod-id = "lfHFW1mp"
 version = "zLVOgx9Y"
+
+[option]
+optional = true
+default = true

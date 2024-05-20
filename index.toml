@@ -290,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "72c611828c63ee86d5272883e4cfaa9d61fd29f389c7f19c4af473e9cb539035"
+hash = "dc9062b2ed65a2a4c34f7a7d21681296abdeac827ffef73306ff9b065d887a83"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
+hash = "0cccece05f45c5ac10041f1afec42f77c4ed407448ad4ff0ef41c61b380d3c9c"
 metafile = true
 
 [[files]]
@@ -369,11 +369,6 @@ hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "f27ad5ca187c5dc5bb410a21eebc10ae03e65e58ceb0e2981f5dafac350c6b07"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "20b013f809a352f9b54f5c9e54ac39296b8f33d701120c6ea6f303f60a332785"
 metafile = true
@@ -436,11 +431,6 @@ metafile = true
 [[files]]
 file = "mods/slot-cycler.pw.toml"
 hash = "d419f6bf486cf61c837fefb390573013fdd5637fd94c729be5e82e1393f99942"
-metafile = true
-
-[[files]]
-file = "mods/snowy-spirit.pw.toml"
-hash = "5c32f08f474915f0c1a19599094c41c485b4cda0c38d23e6d80efc76c8803637"
 metafile = true
 
 [[files]]
@@ -521,6 +511,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6460843f38a29f9c5dac033cd4ecdc8c92eb2fd2fffb0711acfcd65173f438d2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ecc47eeeeecf12a16aefe86abb88f55c44a722f1191a1cac0efd26962ad80148"
 metafile = true
 
 [[files]]
